@@ -1,4 +1,2 @@
 # Incognitochat
-IncognitoChat versions for roblox.
-
-# educational only!
+IncognitoChat versions for lego game.
